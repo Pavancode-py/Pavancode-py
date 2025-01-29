@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pavan Kumar @Pavancode-py
-- 👀 I’m interested in learning new skills and applying them.
+- 👀 I’m interested in learning new skills which will helps me to get a job in Data science or Data analyst.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python Projects.
 - 📫 How to reach me You can reach me out on LinkedIn: https://www.linkedin.com/in/pavan-kumar-8b49a01ab/
