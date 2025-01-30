@@ -10,4 +10,3 @@
 Pavancode-py/Pavancode-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![TypingGIF](https://github.com/user-attachments/assets/3f902ed6-2730-45e3-a676-008d72899d9b)
