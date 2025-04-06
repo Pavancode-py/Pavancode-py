@@ -10,3 +10,4 @@ Pavancode-py/Pavancode-py is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+![RichardSiliconValleyGIF](https://github.com/user-attachments/assets/68c4d656-5568-4bc2-8719-faf3288805ea)
